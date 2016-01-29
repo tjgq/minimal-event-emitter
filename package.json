@@ -1,0 +1,15 @@
+{
+  "name": "minimal-event-emitter",
+  "version": "0.1.0",
+  "description": "A minimal event emitter implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Quelhas <tiagoq@gmail.com>",
+  "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/tjgq/minimal-event-emitter.git"
+  }
+}
